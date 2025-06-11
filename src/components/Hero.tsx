@@ -131,7 +131,7 @@ const Hero = () => {
                 <div className="w-full h-full rounded-3xl bg-white p-6 relative overflow-hidden">
                   <div className="w-full h-full rounded-2xl overflow-hidden relative">
                     <img
-                      src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=500&h=500&fit=crop&crop=face"
+                      src="https://i.postimg.cc/MK4mGRyj/Dk3gp-UJ-og-JIo-pr3veh-B-f1a40a272e764ac1ba6ab23d3504c570.jpg"
                       alt="Sohan Agate"
                       className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
                     />

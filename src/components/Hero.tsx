@@ -72,12 +72,12 @@ const Hero = () => {
               </h1>
               
               <p className="text-xl lg:text-2xl text-muted-foreground leading-relaxed max-w-2xl font-light">
-                Crafting exceptional digital experiences with{' '}
+                Driving impactful digital solutions with{' '}
                 <span className="text-primary font-semibold relative">
                   {yearsCount}+ years
                   <span className="absolute -top-1 -right-1 w-2 h-2 bg-green-500 rounded-full animate-pulse"></span>
                 </span>{' '}
-                spanning software engineering, blockchain innovation, product management, and legal-tech solutions.
+                across software engineering, blockchain development, agile product delivery.
               </p>
             </div>
 

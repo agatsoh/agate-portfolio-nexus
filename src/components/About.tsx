@@ -1,4 +1,3 @@
-
 import { Card, CardContent } from '@/components/ui/card';
 
 const About = () => {
@@ -6,7 +5,11 @@ const About = () => {
     {
       icon: "🎓",
       title: "Education",
-      items: ["BE - Mumbai University", "MS-IT - Frankfurt", "LLB - Mumbai"]
+      items: [
+        "MS (IT) - University of Applied Sciences Frankfurt - May 2016",
+        "BE (EXTC) - Mumbai University - August 2008", 
+        "LLB - Mumbai University - June 2021"
+      ]
     },
     {
       icon: "💼",

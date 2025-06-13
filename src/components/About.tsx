@@ -14,7 +14,7 @@ const About = () => {
     {
       icon: "💼",
       title: "Experience",
-      items: ["Software Development", "Product Management", "Blockchain Innovation"]
+      items: ["Software Development", "Project Management", "Blockchain Innovation"]
     },
     {
       icon: "🌍",

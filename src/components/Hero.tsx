@@ -45,10 +45,7 @@ const Hero = () => {
           {/* Enhanced Left Content */}
           <div className="space-y-10 animate-fade-in">
             {/* Badge */}
-            <div className="inline-flex items-center px-4 py-2 bg-gradient-to-r from-purple-100 to-blue-100 border border-purple-200/50 rounded-full text-sm font-medium text-purple-700 shadow-sm">
-              <Sparkles className="w-4 h-4 mr-2" />
-              Available for new projects
-            </div>
+            <div className="h-10" />
 
             <div className="space-y-6">
               <h1 className="text-6xl lg:text-8xl font-bold leading-[0.9] tracking-tight">

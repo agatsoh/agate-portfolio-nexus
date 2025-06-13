@@ -1,4 +1,3 @@
-
 import { useState, useEffect } from 'react';
 import { Button } from '@/components/ui/button';
 import { Menu, X } from 'lucide-react';
@@ -31,8 +30,13 @@ const Navbar = () => {
     }`}>
       <div className="container mx-auto px-4 py-4">
         <div className="flex items-center justify-between">
-          <div className="text-2xl font-bold text-gradient">
-            Sohan Agate
+          <div className="flex items-center justify-start gap-4">
+            <div className="text-2xl font-bold text-gradient">
+              Sohan Agate
+            </div>
+            <div className="inline-flex items-center px-3 py-1 bg-gradient-to-r from-purple-100 to-blue-100 border border-purple-200/50 rounded-full text-xs font-medium text-purple-700 shadow-sm">
+              Available for new projects
+            </div>
           </div>
 
           {/* Desktop Menu */}

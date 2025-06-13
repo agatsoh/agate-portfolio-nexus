@@ -43,12 +43,12 @@ const About = () => {
           <div className="grid lg:grid-cols-2 gap-12 items-center mb-16">
             <div className="space-y-6 animate-fade-in">
               <h3 className="text-2xl font-semibold text-foreground">My Journey</h3>
-              <p className="text-muted-foreground leading-relaxed">
+              <p className="text-muted-foreground leading-relaxed text-justify">
                 My career spans over 12 years across diverse domains - from software engineering at 
                 Bank of America to blockchain innovation at Brainbot, and from legal advocacy with 
-                Awaken India Movement to product management at GoSprint Logistics.
+                Awaken India Movement to project management at GoSprint Logistics.
               </p>
-              <p className="text-muted-foreground leading-relaxed">
+              <p className="text-muted-foreground leading-relaxed text-justify">
                 This unique cross-functional experience has shaped my approach to building 
                 product-first solutions that balance technical excellence with real-world impact. 
                 I thrive at the intersection of technology, strategy, and human-centered design.
